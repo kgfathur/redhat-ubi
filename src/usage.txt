@@ -1,0 +1,11 @@
+## Need environtment variable file
+Please create file: ./src/build-env
+
+With following environtment variable:
+BUILD_ORG_ID=1234567
+BUILD_ACT_KEY=activationkey
+BUILD_NAME=image-name
+BUILD_TAG=8.3
+BUILD_REPO=docker.io/sample,quay.io/sample
+BUILD_LATEST=True
+PUSH_IMAGE=True

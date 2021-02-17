@@ -1,0 +1,12 @@
+procps-ng
+iputils
+iproute
+ethtool
+telnet
+diffutils
+bind-utils
+wget
+curl
+jq
+openssl
+openssh-clients
