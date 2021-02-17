@@ -1,4 +1,4 @@
-# Red Hat Universal Base Image 8 with additional package
+# Dockerfile for Build Red Hat Universal Base Image 8 with additional package
 ## Description
 The Universal Base Image is designed and engineered to be the base layer for all of your containerized applications, middleware and utilities. This base image is freely redistributable, but Red Hat only supports Red Hat technologies through subscriptions for Red Hat products.
 
@@ -20,4 +20,4 @@ List of additional package include from src/pkg-list.txt
 * openssl
 * openssh-clients
 
-
+For install package, you need Red Hat Subscriptions.
